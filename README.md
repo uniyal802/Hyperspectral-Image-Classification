@@ -123,4 +123,4 @@ Classified Results, and Accuracy Assessment.
   Quantitative Accuracy Measures (e.g., overall accuracy, kappa coefficient) are used to
   assess how well the model performed against the ground truth data.
   Visual Inspection: Users may also perform visual inspections of the classified maps to
-  validate the model’s accuracy by comparing them with known reference data.
+  validate the model’s accuracy by comparing them with known reference da
